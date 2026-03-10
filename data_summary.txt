@@ -1,0 +1,8 @@
+
+Business Data Summary
+
+Total Sales: 2297200.8603
+Top Performing Region: West
+Top Selling Category: Technology
+Top Selling Product: Canon imageCLASS 2200 Advanced Copier
+Average Profit: 28.656896307784674
